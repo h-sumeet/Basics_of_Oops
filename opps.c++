@@ -1,7 +1,7 @@
 #include</Users/shaldar/VScode/C++/stdc++.h>
 using namespace std;
 
-// Basec class
+// Base class
 class Person{
    public:
    string name;
